@@ -34,6 +34,11 @@
 				'array' => array (
 					'nome' => 'Tipos de dados: array',
 					'url'  => 'arrays.php' 
+				),
+				
+				'loop-foreach' => array (
+					'nome' => 'Loop Foreach',
+					'url'  => 'loop-foreach.php' 
 				)
 
 

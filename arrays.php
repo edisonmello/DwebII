@@ -8,30 +8,31 @@
 
 		<h2>ARRAYS</h2>
 		<hr>
-		<small>Curso de Informaticas</small>
+		<small>Desenvolvimento Web II</small>
 
 		
-		<h3>Meus Cursos</h3>
+		<!-- <h3>Meus Cursos</h3>
 
-			<!-- <?php //$cursos = array("Excel","HTML-CSS","Pynton"); ?>
+			 <?php //$cursos = array("Excel","HTML-CSS","Pynton"); ?>
 
 			<h4>Conteúdo do Array: </h4>
-			<p><?php //	echo $cursos[0] . ', ' . $cursos[1] . ', ' .  $cursos[2];  ?></p>
-			<br> -->
+			<p><?php //	echo $cursos[0] . ', ' . $cursos[1] . ', ' .  $cursos[2]; 
+		//	print_r($cursos) ?></p>
+			<br> 
 
-				<!-- <h4>Conteúdo do Array: </h4>
+				<h4>Conteúdo do Array: </h4>
 			<p><?php //echo $cursos[0] . ', ' . $cursos[1] . ', ' .  $cursos[2];  ?></p>
 			<br> -->
 
-			<!-- <?php //$cursos = array("Curso 1" => "Excel",
-						//		  "Curso 2" => "HTML-CSS",
-						//		  "Curso 3" => "Pynton"); ?>
+			<?php $cursos = array("Curso 1" => "Excel",
+								  "Curso 2" => "HTML-CSS",
+								  "Curso 3" => "Pynton"); ?>
 			
 		
 
 			<h4>Conteúdo do Array: </h4>
-			<p><?php //echo $cursos['Curso 1'] ?></p>
-			<br> -->
+			<p><?php // echo $cursos['Curso 1'] ?></p>
+			<br>
 
 				<?php $cursos = array(
 										"Excel" => array(
@@ -56,9 +57,9 @@
 			
 		
 
-			<!-- <h4>Conteúdo do Array: </h4>
+			 <h4>Conteúdo do Array: </h4>
 			<p><?php //echo $cursos['Curso 1'] ?></p>
-			<br> -->
+			<br>
 
 
 		<h3>Informação do Curso</h3>
@@ -67,11 +68,11 @@
 			<p><?php  echo $cursos["Excel"]["titulo"]?></p>
 			<br>
 
-			<h4>Número de Avaliações: </h4>
+			<h4>Número de Alunos: </h4>
 			<p><?php  echo $cursos["Excel"]["n_alunos"]?></p>
 			<br>
 
-			<h4>URL: </h4>
+			<h4>Número de Avaliações:: </h4>
 			<p><?php  echo $cursos["Excel"]["aval"]?></p>
 			<br>
 

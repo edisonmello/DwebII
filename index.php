@@ -7,7 +7,7 @@
 	<body>
 
 
-		<h2>Índice de Aulas - Codificando na prática</h2>
+		<h2>Índice de Aulas Web - Codificando na prática</h2>
 		<hr>
 		<small>Desenvolvimento Web II</small>
 	

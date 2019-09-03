@@ -18,19 +18,19 @@
 								array(
 									"n_alunos" => 400,
 									"titulo" => "Excel do zero ao avançado",
-									"url" => "http://www.udemy.com",
+									"url" => "http://www.sinodalprogresso.com.br",
 									"aval" => 200
 								),
 								array(
 									"n_alunos" => 300,
 									"titulo" => "Aprenda Desenvolvimento Web em HTML/CSS",
-									"url" => "http://www.udemy.com",
+									"url" => "http://www.sinodalprogresso.com.br",
 									"aval" => 150
 								),
 								array(
 									"n_alunos" => 280,
 									"titulo" => "Programe em Python",
-									"url" => "http://www.udemy.com",
+									"url" => "http://www.udemy.com.br",
 									"aval" => 90
 								)
 				); 
